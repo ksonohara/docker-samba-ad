@@ -1,4 +1,4 @@
-FROM sonohara/samba-base:samba-4.6
+FROM sonohara/samba-base:Samba-4.6
 MAINTAINER Expert Software Inc. / https://www.e-software.company
 
 LABEL name="Samba AD/DC" \
